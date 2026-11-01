@@ -1,0 +1,12 @@
+# Dastur o'zi yaratadigan ma'lumot fayllari GitHub'ga yuborilmaydi
+data/*.json
+data/*.tmp
+ui/*
+reports/*
+README.md
+# Python va muhit fayllari
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+
